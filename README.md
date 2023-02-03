@@ -1,4 +1,4 @@
-# Hello devs, name is Pedro and develop for the web!
+# Hello devs, name is Pedro!
 I've been studying web development since 2023, I 
 voluntarily try to learn and teach problem solving.
 
