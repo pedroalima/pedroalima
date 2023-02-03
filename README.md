@@ -1,6 +1,5 @@
-# Hello devs, name is Pedro!
-I've been studying web development since 2023, I 
-voluntarily try to learn and teach problem solving.
+# Hello devs, me chamdo Pedro!
+Venho estudando desenvolvimento web desde 2023. Voluntariamente me proponho a aprender e ensinar a resolução de problemas.
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalima&show_icons=true&theme=transparent)
 
