@@ -1,5 +1,5 @@
-# Hello devs, me chamdo Pedro!
-Venho estudando desenvolvimento web desde 2023. Voluntariamente me proponho a aprender e ensinar a resolução de problemas.
+# Hello devs, me chamo Pedro!
+Venho estudando desenvolvimento web desde 2023. Voluntariamente me disponho a aprender e ensinar a resolução de problemas.
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedroalima&show_icons=true&theme=transparent)
 
