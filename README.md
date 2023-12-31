@@ -19,6 +19,8 @@ Venho estudando e praticando desenvolvimento web desde fevereiro de 2023. Buscan
 
 ## Back-end
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
 #### Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
