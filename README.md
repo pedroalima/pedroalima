@@ -18,7 +18,7 @@ Venho estudando e praticando desenvolvimento web desde fevereiro de 2023. Buscan
 ![CSS3](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3)&nbsp;
 
 ## Back-end
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-05122A?style=flat&logo=.net)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=express)&nbsp;
